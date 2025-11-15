@@ -1,0 +1,6 @@
+name = "reactbot"
+main = "react.js"
+compatibility_date = "2025-10-01"
+
+[vars]
+BOT_TOKEN = ""
